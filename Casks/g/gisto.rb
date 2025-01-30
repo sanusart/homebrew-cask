@@ -16,7 +16,7 @@ cask "gisto" do
 
   name "Gisto"
   desc "Snippets management desktop application"
-  homepage "https://www.gisto.org"
+  homepage "https://www.gisto.org/"
 
   app "Gisto.app"
 
